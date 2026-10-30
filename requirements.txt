@@ -1,0 +1,14 @@
+# Tested together on Python 3.13 (Oct 2026). Python 3.10–3.12 should also work.
+dowhy==0.14
+econml==0.17.0
+causalml==0.18.0
+causal-learn==0.1.4.8
+scikit-learn==1.9.1
+lightgbm==4.7.0
+numpy==2.5.4
+pandas==3.1.0
+statsmodels==0.15.0
+networkx==3.7
+matplotlib==3.11.2
+jupyterlab
+ipykernel
